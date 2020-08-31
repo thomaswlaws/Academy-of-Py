@@ -9,7 +9,7 @@ First, I analyzed the district-wide standardized test results. Then I appropriat
 
 I included the following metrics for the each individual district and school in table formats.
 
-### District Summary
+### District Summary 
 
 
   * Total Schools
