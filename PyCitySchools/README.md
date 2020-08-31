@@ -21,7 +21,7 @@ I included the following metrics for the each individual district and school in 
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### School Summary
+### School Summary 
 
 
   * School Name
