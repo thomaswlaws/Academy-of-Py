@@ -76,4 +76,4 @@ I created a table that highlights the top 5 performing schools based on Overall 
 
 ### Scores by School Type
 
-* I repeated the above, but this time I grouped the schools based on school type (Charter vs. District).
+* I repeated the above, but this time I grouped the schools based on school type (Charter vs. District).  
