@@ -44,7 +44,7 @@ I created a table that lists the average Math Score for students of each grade l
 Reading Scores by Grade
 I created a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 Scores by School Spending
-I createe a table that breaks down school performances based on average Spending Ranges (Per Student). I then used 4 reasonable bins to group school spending. I also, Included in the table, each of the following:
+I created a table that breaks down school performances based on average Spending Ranges (Per Student). I then used 4 reasonable bins to group school spending. I also, Included in the table, each of the following:
 Average Math Score
 Average Reading Score
 % Passing Math
