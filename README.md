@@ -1,6 +1,6 @@
 pandas-Project
 Academy of Py
-First, I analyzed the district-wide standardized test results. Then I appropriately aggregated the data was able to showcase obvious trends in school performance.
+First, I analyzed the district-wide standardized test results. Then I appropriately aggregated the data and was able to showcase obvious trends in school performance.
 
 I included the following metrics for the each individual district and school in table formats.
 
